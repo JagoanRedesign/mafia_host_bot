@@ -1,1 +1,1 @@
-worker: python mafia_host_bot
+worker: python __main__.py
